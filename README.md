@@ -19,6 +19,7 @@ A complete relational database system for managing clinic operations including p
 5. `prescriptions` - Medication records linked to appointments
 
 ## ERD Diagram
+![ERD Diagram](clinicdb_ERD.png)
 
 ## Setup Instructions ⚙️
 
